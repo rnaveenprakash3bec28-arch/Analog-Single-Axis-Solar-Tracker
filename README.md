@@ -35,4 +35,14 @@ The project uses two LDR sensors to detect the intensity of sunlight. When one L
 
 ## Project Report
 The detailed project report is available in **Report.pdf**.
+## Results
 
+The developed analog single-axis solar tracker successfully tracked the direction of maximum sunlight using LDR sensors, transistors, and a potentiometer. The system automatically rotated the solar panel without requiring a microcontroller, demonstrating a simple and cost-effective solar tracking solution.
+
+## Author
+
+**Naveen Prakash R**
+
+B.E. Electronics and Communication Engineering
+
+GitHub: https://github.com/rnaveenprakash3bec28-arch
