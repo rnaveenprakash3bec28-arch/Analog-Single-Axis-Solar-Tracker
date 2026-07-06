@@ -28,7 +28,7 @@ The project uses two LDR sensors to detect the intensity of sunlight. When one L
 ![Front View](20251120_054927.jpg)
 
 ### Circuit Setup
-![Circuit Setup](20251120_054920.jpg)
+![Circuit Setup](20251030_194347.jpg)
 
 ### Working Model
 ![Working Model](20251120_054903.jpg)
