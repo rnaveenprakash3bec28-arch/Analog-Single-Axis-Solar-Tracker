@@ -22,3 +22,17 @@ The Analog Single-Axis Solar Tracker is a hardware-based renewable energy projec
 
 ## Working Principle
 The project uses two LDR sensors to detect the intensity of sunlight. When one LDR receives more light than the other, the transistor circuit activates the DC motor, rotating the solar panel toward the brighter side. The potentiometer is used to adjust the sensitivity of the tracking system. This enables the panel to follow the sun throughout the day along
+## Project Images
+
+### Front View
+![Front View](20251120_054927.jpg)
+
+### Circuit Setup
+![Circuit Setup](20251120_054920.jpg)
+
+### Working Model
+![Working Model](20251120_054903.jpg)
+
+## Project Report
+The detailed project report is available in **Report.pdf**.
+
